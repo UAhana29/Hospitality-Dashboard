@@ -27,7 +27,25 @@ It analyzes key hotel performance metrics to support data-driven decision-making
 - `README.md` – Project documentation
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](screenshots/your_image_name.png)
+
+### 🔹 Overall Dashboard Overview
+![Dashboard Overview](screenshots/overview.png)
+
+---
+
+### 🔹 Revenue Analysis
+![Revenue Analysis](screenshots/revenue.png)
+
+---
+
+### 🔹 Booking Status Insights
+![Booking Status](screenshots/bookingstatus.png)
+
+---
+
+### 🔹 Additional Visual
+![Additional Dashboard View](screenshots/image.png)
+
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
